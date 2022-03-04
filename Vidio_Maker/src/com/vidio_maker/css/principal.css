@@ -1,0 +1,23 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+    .root {
+       -fx-background-color:#000;
+    }
+    .hbox{
+        -fx-border-color:#808080;
+        -fx-border-width: 2;
+    }
+    #botoes{
+        -fx-padding: 10,0,0,0;
+    }
+    .button{
+        -fx-background-color: #808080;
+    }
+    .pane{
+        -fx-border-color:#808080;
+    }
+    .label{
+         -fx-text-fill: #808080;
+    }
